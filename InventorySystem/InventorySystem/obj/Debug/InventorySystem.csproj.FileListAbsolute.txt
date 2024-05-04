@@ -1,0 +1,82 @@
+C:\Users\trish\Desktop\IM System\InventorySystem\InventorySystem\bin\Debug\InventorySystem.exe.config
+C:\Users\trish\Desktop\IM System\InventorySystem\InventorySystem\bin\Debug\InventorySystem.exe
+C:\Users\trish\Desktop\IM System\InventorySystem\InventorySystem\bin\Debug\InventorySystem.pdb
+C:\Users\trish\Desktop\IM System\InventorySystem\InventorySystem\obj\Debug\InventorySystem.csproj.AssemblyReference.cache
+C:\Users\trish\Desktop\IM System\InventorySystem\InventorySystem\obj\Debug\InventorySystem.Properties.Resources.resources
+C:\Users\trish\Desktop\IM System\InventorySystem\InventorySystem\obj\Debug\InventorySystem.csproj.GenerateResource.cache
+C:\Users\trish\Desktop\IM System\InventorySystem\InventorySystem\obj\Debug\InventorySystem.csproj.CoreCompileInputs.cache
+C:\Users\trish\Desktop\IM System\InventorySystem\InventorySystem\obj\Debug\InventorySystem.exe
+C:\Users\trish\Desktop\IM System\InventorySystem\InventorySystem\obj\Debug\InventorySystem.pdb
+C:\Users\trish\Desktop\IM System\InventorySystem\InventorySystem\obj\Debug\InventorySystem.Form2.resources
+C:\Users\trish\Desktop\IM System\InventorySystem\InventorySystem\obj\Debug\InventorySystem.Inventory.resources
+C:\Users\trish\Desktop\IM System\InventorySystem\InventorySystem\obj\Debug\InventorySystem.product.resources
+C:\Users\trish\Desktop\IM System\InventorySystem\InventorySystem\obj\Debug\InventorySystem.supplier.resources
+C:\Users\trish\Desktop\IM System\InventorySystem\InventorySystem\obj\Debug\InventorySystem.building.resources
+C:\Users\trish\Desktop\IM System\InventorySystem\InventorySystem\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\trish\Desktop\IM System\InventorySystem\InventorySystem\bin\Debug\Google.Protobuf.dll
+C:\Users\trish\Desktop\IM System\InventorySystem\InventorySystem\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\trish\Desktop\IM System\InventorySystem\InventorySystem\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\trish\Desktop\IM System\InventorySystem\InventorySystem\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\trish\Desktop\IM System\InventorySystem\InventorySystem\bin\Debug\MySql.Data.dll
+C:\Users\trish\Desktop\IM System\InventorySystem\InventorySystem\bin\Debug\System.Buffers.dll
+C:\Users\trish\Desktop\IM System\InventorySystem\InventorySystem\bin\Debug\System.Memory.dll
+C:\Users\trish\Desktop\IM System\InventorySystem\InventorySystem\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\trish\Desktop\IM System\InventorySystem\InventorySystem\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\trish\Desktop\IM System\InventorySystem\InventorySystem\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\trish\Desktop\IM System\InventorySystem\InventorySystem\bin\Debug\ZstdNet.dll
+C:\Users\trish\Desktop\IM System\InventorySystem\InventorySystem\bin\Debug\Google.Protobuf.pdb
+C:\Users\trish\Desktop\IM System\InventorySystem\InventorySystem\bin\Debug\Google.Protobuf.xml
+C:\Users\trish\Desktop\IM System\InventorySystem\InventorySystem\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\trish\Desktop\IM System\InventorySystem\InventorySystem\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\trish\Desktop\IM System\InventorySystem\InventorySystem\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\trish\Desktop\IM System\InventorySystem\InventorySystem\bin\Debug\MySql.Data.xml
+C:\Users\trish\Desktop\IM System\InventorySystem\InventorySystem\bin\Debug\System.Buffers.xml
+C:\Users\trish\Desktop\IM System\InventorySystem\InventorySystem\bin\Debug\System.Memory.xml
+C:\Users\trish\Desktop\IM System\InventorySystem\InventorySystem\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\trish\Desktop\IM System\InventorySystem\InventorySystem\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\trish\Desktop\IM System\InventorySystem\InventorySystem\obj\Debug\InventorySystem.csproj.CopyComplete
+C:\Users\trish\Desktop\IM System\InventorySystem\InventorySystem\bin\Debug\Guna.UI2.dll
+C:\Users\trish\Desktop\IM System\InventorySystem\InventorySystem\obj\Debug\InventorySystem.data.resources
+C:\Users\trish\Desktop\IM System\InventorySystem\InventorySystem\obj\Debug\InventorySystem.stocks.resources
+C:\Users\trish\Desktop\IM System\InventorySystem\InventorySystem\obj\Debug\InventorySystem.Start.resources
+C:\Users\trish\Desktop\COLLEGE FILE\SECOND YEAR BSCS COMPILATION\SECOND SEMESTER\INFORMATION MANAGEMENT\IM System\InventorySystem\InventorySystem\bin\Debug\InventorySystem.exe.config
+C:\Users\trish\Desktop\COLLEGE FILE\SECOND YEAR BSCS COMPILATION\SECOND SEMESTER\INFORMATION MANAGEMENT\IM System\InventorySystem\InventorySystem\bin\Debug\InventorySystem.exe
+C:\Users\trish\Desktop\COLLEGE FILE\SECOND YEAR BSCS COMPILATION\SECOND SEMESTER\INFORMATION MANAGEMENT\IM System\InventorySystem\InventorySystem\bin\Debug\InventorySystem.pdb
+C:\Users\trish\Desktop\COLLEGE FILE\SECOND YEAR BSCS COMPILATION\SECOND SEMESTER\INFORMATION MANAGEMENT\IM System\InventorySystem\InventorySystem\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\trish\Desktop\COLLEGE FILE\SECOND YEAR BSCS COMPILATION\SECOND SEMESTER\INFORMATION MANAGEMENT\IM System\InventorySystem\InventorySystem\bin\Debug\Google.Protobuf.dll
+C:\Users\trish\Desktop\COLLEGE FILE\SECOND YEAR BSCS COMPILATION\SECOND SEMESTER\INFORMATION MANAGEMENT\IM System\InventorySystem\InventorySystem\bin\Debug\Guna.UI2.dll
+C:\Users\trish\Desktop\COLLEGE FILE\SECOND YEAR BSCS COMPILATION\SECOND SEMESTER\INFORMATION MANAGEMENT\IM System\InventorySystem\InventorySystem\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\trish\Desktop\COLLEGE FILE\SECOND YEAR BSCS COMPILATION\SECOND SEMESTER\INFORMATION MANAGEMENT\IM System\InventorySystem\InventorySystem\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\trish\Desktop\COLLEGE FILE\SECOND YEAR BSCS COMPILATION\SECOND SEMESTER\INFORMATION MANAGEMENT\IM System\InventorySystem\InventorySystem\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\trish\Desktop\COLLEGE FILE\SECOND YEAR BSCS COMPILATION\SECOND SEMESTER\INFORMATION MANAGEMENT\IM System\InventorySystem\InventorySystem\bin\Debug\MySql.Data.dll
+C:\Users\trish\Desktop\COLLEGE FILE\SECOND YEAR BSCS COMPILATION\SECOND SEMESTER\INFORMATION MANAGEMENT\IM System\InventorySystem\InventorySystem\bin\Debug\System.Buffers.dll
+C:\Users\trish\Desktop\COLLEGE FILE\SECOND YEAR BSCS COMPILATION\SECOND SEMESTER\INFORMATION MANAGEMENT\IM System\InventorySystem\InventorySystem\bin\Debug\System.Memory.dll
+C:\Users\trish\Desktop\COLLEGE FILE\SECOND YEAR BSCS COMPILATION\SECOND SEMESTER\INFORMATION MANAGEMENT\IM System\InventorySystem\InventorySystem\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\trish\Desktop\COLLEGE FILE\SECOND YEAR BSCS COMPILATION\SECOND SEMESTER\INFORMATION MANAGEMENT\IM System\InventorySystem\InventorySystem\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\trish\Desktop\COLLEGE FILE\SECOND YEAR BSCS COMPILATION\SECOND SEMESTER\INFORMATION MANAGEMENT\IM System\InventorySystem\InventorySystem\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\trish\Desktop\COLLEGE FILE\SECOND YEAR BSCS COMPILATION\SECOND SEMESTER\INFORMATION MANAGEMENT\IM System\InventorySystem\InventorySystem\bin\Debug\ZstdNet.dll
+C:\Users\trish\Desktop\COLLEGE FILE\SECOND YEAR BSCS COMPILATION\SECOND SEMESTER\INFORMATION MANAGEMENT\IM System\InventorySystem\InventorySystem\bin\Debug\Google.Protobuf.pdb
+C:\Users\trish\Desktop\COLLEGE FILE\SECOND YEAR BSCS COMPILATION\SECOND SEMESTER\INFORMATION MANAGEMENT\IM System\InventorySystem\InventorySystem\bin\Debug\Google.Protobuf.xml
+C:\Users\trish\Desktop\COLLEGE FILE\SECOND YEAR BSCS COMPILATION\SECOND SEMESTER\INFORMATION MANAGEMENT\IM System\InventorySystem\InventorySystem\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\trish\Desktop\COLLEGE FILE\SECOND YEAR BSCS COMPILATION\SECOND SEMESTER\INFORMATION MANAGEMENT\IM System\InventorySystem\InventorySystem\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\trish\Desktop\COLLEGE FILE\SECOND YEAR BSCS COMPILATION\SECOND SEMESTER\INFORMATION MANAGEMENT\IM System\InventorySystem\InventorySystem\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\trish\Desktop\COLLEGE FILE\SECOND YEAR BSCS COMPILATION\SECOND SEMESTER\INFORMATION MANAGEMENT\IM System\InventorySystem\InventorySystem\bin\Debug\MySql.Data.xml
+C:\Users\trish\Desktop\COLLEGE FILE\SECOND YEAR BSCS COMPILATION\SECOND SEMESTER\INFORMATION MANAGEMENT\IM System\InventorySystem\InventorySystem\bin\Debug\System.Buffers.xml
+C:\Users\trish\Desktop\COLLEGE FILE\SECOND YEAR BSCS COMPILATION\SECOND SEMESTER\INFORMATION MANAGEMENT\IM System\InventorySystem\InventorySystem\bin\Debug\System.Memory.xml
+C:\Users\trish\Desktop\COLLEGE FILE\SECOND YEAR BSCS COMPILATION\SECOND SEMESTER\INFORMATION MANAGEMENT\IM System\InventorySystem\InventorySystem\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\trish\Desktop\COLLEGE FILE\SECOND YEAR BSCS COMPILATION\SECOND SEMESTER\INFORMATION MANAGEMENT\IM System\InventorySystem\InventorySystem\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\trish\Desktop\COLLEGE FILE\SECOND YEAR BSCS COMPILATION\SECOND SEMESTER\INFORMATION MANAGEMENT\IM System\InventorySystem\InventorySystem\obj\Debug\InventorySystem.csproj.AssemblyReference.cache
+C:\Users\trish\Desktop\COLLEGE FILE\SECOND YEAR BSCS COMPILATION\SECOND SEMESTER\INFORMATION MANAGEMENT\IM System\InventorySystem\InventorySystem\obj\Debug\InventorySystem.building.resources
+C:\Users\trish\Desktop\COLLEGE FILE\SECOND YEAR BSCS COMPILATION\SECOND SEMESTER\INFORMATION MANAGEMENT\IM System\InventorySystem\InventorySystem\obj\Debug\InventorySystem.Start.resources
+C:\Users\trish\Desktop\COLLEGE FILE\SECOND YEAR BSCS COMPILATION\SECOND SEMESTER\INFORMATION MANAGEMENT\IM System\InventorySystem\InventorySystem\obj\Debug\InventorySystem.Inventory.resources
+C:\Users\trish\Desktop\COLLEGE FILE\SECOND YEAR BSCS COMPILATION\SECOND SEMESTER\INFORMATION MANAGEMENT\IM System\InventorySystem\InventorySystem\obj\Debug\InventorySystem.Form2.resources
+C:\Users\trish\Desktop\COLLEGE FILE\SECOND YEAR BSCS COMPILATION\SECOND SEMESTER\INFORMATION MANAGEMENT\IM System\InventorySystem\InventorySystem\obj\Debug\InventorySystem.data.resources
+C:\Users\trish\Desktop\COLLEGE FILE\SECOND YEAR BSCS COMPILATION\SECOND SEMESTER\INFORMATION MANAGEMENT\IM System\InventorySystem\InventorySystem\obj\Debug\InventorySystem.product.resources
+C:\Users\trish\Desktop\COLLEGE FILE\SECOND YEAR BSCS COMPILATION\SECOND SEMESTER\INFORMATION MANAGEMENT\IM System\InventorySystem\InventorySystem\obj\Debug\InventorySystem.Properties.Resources.resources
+C:\Users\trish\Desktop\COLLEGE FILE\SECOND YEAR BSCS COMPILATION\SECOND SEMESTER\INFORMATION MANAGEMENT\IM System\InventorySystem\InventorySystem\obj\Debug\InventorySystem.stocks.resources
+C:\Users\trish\Desktop\COLLEGE FILE\SECOND YEAR BSCS COMPILATION\SECOND SEMESTER\INFORMATION MANAGEMENT\IM System\InventorySystem\InventorySystem\obj\Debug\InventorySystem.supplier.resources
+C:\Users\trish\Desktop\COLLEGE FILE\SECOND YEAR BSCS COMPILATION\SECOND SEMESTER\INFORMATION MANAGEMENT\IM System\InventorySystem\InventorySystem\obj\Debug\InventorySystem.csproj.GenerateResource.cache
+C:\Users\trish\Desktop\COLLEGE FILE\SECOND YEAR BSCS COMPILATION\SECOND SEMESTER\INFORMATION MANAGEMENT\IM System\InventorySystem\InventorySystem\obj\Debug\InventorySystem.csproj.CoreCompileInputs.cache
+C:\Users\trish\Desktop\COLLEGE FILE\SECOND YEAR BSCS COMPILATION\SECOND SEMESTER\INFORMATION MANAGEMENT\IM System\InventorySystem\InventorySystem\obj\Debug\InventorySystem.csproj.CopyComplete
+C:\Users\trish\Desktop\COLLEGE FILE\SECOND YEAR BSCS COMPILATION\SECOND SEMESTER\INFORMATION MANAGEMENT\IM System\InventorySystem\InventorySystem\obj\Debug\InventorySystem.exe
+C:\Users\trish\Desktop\COLLEGE FILE\SECOND YEAR BSCS COMPILATION\SECOND SEMESTER\INFORMATION MANAGEMENT\IM System\InventorySystem\InventorySystem\obj\Debug\InventorySystem.pdb
