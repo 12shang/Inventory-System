@@ -2,6 +2,9 @@
 
 Welcome to the Inventory System repository! This system is specifically designed for M&M stores to manage their inventory efficiently. It is developed using C# and Visual Studio 2019.
 
+![Uploading GROUP_11_INVENTORY_MANAGEMENT_SYSTEM_BSCS_2_1.gif…]()
+
+
 ## Features
 
 - **Normalization:** Ensures organized and secure product data, eliminating duplicates and inconsistencies.
