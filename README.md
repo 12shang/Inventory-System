@@ -2,8 +2,7 @@
 
 Welcome to the Inventory System repository! This system is specifically designed for M&M stores to manage their inventory efficiently. It is developed using C# and Visual Studio 2019.
 
-![Uploading GROUP_11_INVENTORY_MANAGEMENT_SYSTEM_BSCS_2_1.gif…]()
-
+https://github.com/12shang/Inventory-System/assets/73419994/e6a6df82-99d9-42b9-900f-d1eee152f0a6
 
 ## Features
 
